@@ -1,3 +1,5 @@
+# Space-Shooter
+
 Group Project:
 
 Develop a 2D computer game using Object-Oriented Programming (OOP) paradigm.
