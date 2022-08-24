@@ -2,6 +2,10 @@
 
 Group Project:
 
+Language used: C++
+
+Software used: Visual Studio Code
+
 Develop a 2D computer game using Object-Oriented Programming (OOP) paradigm.
 The requirements:
 
@@ -11,8 +15,6 @@ Using a simple graphical library called WinBGIm for showing graphical-based outp
 - Implementation of OOP
 Encapsulation, Association (composition and aggregation), Inheritance, and Polymorphism
 
-Language used: C++
-Software used: Visual Studio Code
 
 ---------------------------------------------------------------------------------------------------
 
