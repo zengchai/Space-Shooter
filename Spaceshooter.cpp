@@ -231,7 +231,7 @@ class Myspaceship:public Spaceship
   return 0;}
 
   int lifespaneneres(int hx,int hy,int ly,int life){
-    if(rx2==hx){
+    if(rx2>=hx && rx2<=hx+50){
       if(ly2<=hy&&ly2>=ly){
         lifespans--;
         score->show(life);
