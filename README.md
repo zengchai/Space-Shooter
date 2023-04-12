@@ -1,6 +1,6 @@
 # Space-Shooter
 
-Group Project:
+PT1 Group Project:
 
 Language used: C++
 
